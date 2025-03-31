@@ -1,0 +1,8 @@
+total 6
+-rw-r--r-- 1 dpmen 197609  65 Mar 29 08:57 ARCHIVONUEVARAMAQUENOESTAENLOCAL.txt
+-rw-r--r-- 1 dpmen 197609 218 Mar 29 08:41 archivitoCambiadito.txt
+-rw-r--r-- 1 dpmen 197609   0 Mar 30 23:01 listaL.txt
+-rw-r--r-- 1 dpmen 197609  28 Mar 29 08:57 nuevarama.txt
+-rw-r--r-- 1 dpmen 197609  31 Mar 29 08:11 prueba3.txt
+-rw-r--r-- 1 dpmen 197609  19 Mar 29 00:55 textito2.txt
+-rw-r--r-- 1 dpmen 197609  10 Mar 28 22:53 texto.txt
